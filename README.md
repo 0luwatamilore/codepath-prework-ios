@@ -39,9 +39,13 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
 - The close friends feature
 - The reels feature
 
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+
+**HabitHive** is a social habit-tracking app that combines individual goal-setting with a supportive community to help users stay motivated. Users can create habits, set daily or weekly goals, and track their progress visually through streaks and charts. What sets HabitHive apart is its "Habit Groups" feature, where users can join or create groups around shared goals (e.g., "Morning Yoga Enthusiasts" or "Daily Reading Club"). Members can cheer each other on, share tips, and even participate in friendly challenges. The app also offers reminders, motivational quotes, and AI-powered habit insights to help users optimize their routines. With a sleek, gamified design and a focus on accountability through community, HabitHive transforms habit-building into a collaborative, engaging journey.
+
 ## Notes
 Describe any challenges encountered while building the app.
-- The syntax was kind of confusing because I have doen some personal practice on it but the resources i found made use of SwiftUI
+- The syntax was kind of confusing because I have doen some personal practice on it but the resources i found made use of SwiftUI instead of the UIKit
 
 ## License
 

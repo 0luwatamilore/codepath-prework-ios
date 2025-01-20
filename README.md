@@ -23,10 +23,25 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
+### Spotify
+- The ability to search for a particular song or artist
+- Create a playlist feature
+- Download song/album to play offline feature
+
+### X (Formerly Twitter)
+- The comment feature
+- The live feature
+- The followfeature
+
+### Instagram
+- The ability to post stories that last 24 hours
+- The close friends feature
+- The reels feature
 
 ## Notes
-
 Describe any challenges encountered while building the app.
+- The syntax was kind of confusing because I have doen some personal practice on it but the resources i found made use of SwiftUI
 
 ## License
 

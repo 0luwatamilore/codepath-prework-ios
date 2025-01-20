@@ -32,7 +32,7 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
 ### X (Formerly Twitter)
 - The comment feature
 - The live feature
-- The followfeature
+- The follow feature
 
 ### Instagram
 - The ability to post stories that last 24 hours

@@ -19,8 +19,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+![ScreenRecording2025-01-20at3 13 00PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/efca0069-d1c8-435c-b39d-22d3df6270ab)
+
 
 ## App Brainstorming (Step 4)
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps

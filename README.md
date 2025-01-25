@@ -5,7 +5,7 @@ Codepath prework project for iOS development class
 
 Submitted by: **Oluwatamilore Oladejo**
 
-**ChangeBackgroundColor** is an app that... [TODO] 
+**ChangeBackgroundColor**  is an app that changes the background color of the screen to a random color when a button is tapped, showcasing the basics of iOS development using Swift and Xcode. [TODO: Add additional features or personalizations here if applicable!]
 
 Time spent: **2** hours spent in total
 

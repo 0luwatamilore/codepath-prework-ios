@@ -7,7 +7,7 @@ Submitted by: **Oluwatamilore Oladejo**
 
 **ChangeBackgroundColor** is an app that... [TODO] 
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-![ScreenRecording2025-01-20at3 13 00PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/efca0069-d1c8-435c-b39d-22d3df6270ab)
+![ScreenRecording2025-01-20at3 13 00PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d809ab26-60d4-42a2-8a60-ffc739771a92)
 
 
 ## App Brainstorming (Step 4)
